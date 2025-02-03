@@ -1,0 +1,19 @@
+﻿  BankProjectWithOOP.cpp
+C:\Users\mathm\source\repos\BankProjectWithOOP\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mathm\source\repos\BankProjectWithOOP\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mathm\source\repos\BankProjectWithOOP\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mathm\source\repos\BankProjectWithOOP\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mathm\source\repos\BankProjectWithOOP\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mathm\source\repos\BankProjectWithOOP\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mathm\source\repos\BankProjectWithOOP\clsInputValidate.h(111,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mathm\source\repos\BankProjectWithOOP\clsInputValidate.h(115,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mathm\source\repos\BankProjectWithOOP\clsBankClient.h(28,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mathm\source\repos\BankProjectWithOOP\clsBankClient.h(322,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mathm\source\repos\BankProjectWithOOP\clsBankClient.h(333,23): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mathm\source\repos\BankProjectWithOOP\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mathm\source\repos\BankProjectWithOOP\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\mathm\source\repos\BankProjectWithOOP\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+C:\Users\mathm\source\repos\BankProjectWithOOP\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mathm\source\repos\BankProjectWithOOP\clsBankClient.h(280,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\mathm\source\repos\BankProjectWithOOP\clsUser.h(307,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  BankProjectWithOOP.vcxproj -> C:\Users\mathm\source\repos\BankProjectWithOOP\x64\Debug\BankProjectWithOOP.exe
